@@ -1,0 +1,14 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "cse431 course repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isasachi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
